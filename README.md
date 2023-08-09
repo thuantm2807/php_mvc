@@ -5,3 +5,5 @@ https://github.com/rorystandley/mysqli-crud-php-oop/blob/master/mysql_crud.php
 https://www.sourcecodester.com/tutorial/php/15758/creating-simple-mvc-framework-php-tutorial
 # diagram
 ![manage_store drawio](https://github.com/thuantm2807/php_mvc/assets/51816218/c4920a10-ae7b-4d75-97b5-16d75996a40f)
+# API structure
+https://www.postman.com/martian-crescent-421626/workspace/interview-vand-co/collection/8946938-2c790db3-7edb-4b89-aa51-d33d54e413c0?action=share&creator=8946938
