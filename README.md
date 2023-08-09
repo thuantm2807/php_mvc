@@ -3,3 +3,5 @@ Includes: Apache 2.4.56, MariaDB 10.4.28, PHP 8.1.17, phpMyAdmin 5.2.1, OpenSSL 
 # References
 https://github.com/rorystandley/mysqli-crud-php-oop/blob/master/mysql_crud.php
 https://www.sourcecodester.com/tutorial/php/15758/creating-simple-mvc-framework-php-tutorial
+# diagram
+![manage_store drawio](https://github.com/thuantm2807/php_mvc/assets/51816218/c4920a10-ae7b-4d75-97b5-16d75996a40f)
